@@ -1,7 +1,4 @@
-
 def turn_count(board)
-  counter = 0
-  board.each do |turns|
-    counter += 1
-  end
+  board.each do |array|
+    count = "#{array}"
 end
